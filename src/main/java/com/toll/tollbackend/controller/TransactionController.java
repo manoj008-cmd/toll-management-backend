@@ -11,7 +11,8 @@ import java.util.List;
 @CrossOrigin(
         origins = {
                 "http://localhost:5173",
-                "https://trolly-delta.vercel.app"
+                "https://trolly-3a4uqqd4j-manoj-kumars-projects-d17c0678.vercel.app/",
+                "https://trolly-git-main-manoj-kumars-projects-d17c0678.vercel.app/"
         }
 )
 public class TransactionController {
